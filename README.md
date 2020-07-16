@@ -9,4 +9,4 @@
 
 ## Demo video
 
-- Please take a look at the demo-video.mov 
+- Please take a look at the https://github.com/GoldenOwlAsia/demo-wordpress-woocommerce/blob/master/demo-video.mov
