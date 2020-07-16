@@ -1,0 +1,122 @@
+2020-07-15T08:18:05+00:00 CRITICAL Uncaught Error: Call to undefined function is_error() in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php:15
+Stack trace:
+#0 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(23): connect_replica()
+#1 /Users/osx/Sites/demo-wordpress/wp-includes/template-loader.php(106): include('/Users/osx/Site...')
+#2 /Users/osx/Sites/demo-wordpress/wp-blog-header.php(19): require_once('/Users/osx/Site...')
+#3 /Users/osx/Sites/demo-wordpress/index.php(17): require('/Users/osx/Site...')
+#4 {main}
+  thrown in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 15
+
+2020-07-15T08:19:38+00:00 CRITICAL Uncaught Error: Call to undefined function is_error() in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php:15
+Stack trace:
+#0 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(23): connect_replica()
+#1 /Users/osx/Sites/demo-wordpress/wp-includes/template-loader.php(106): include('/Users/osx/Site...')
+#2 /Users/osx/Sites/demo-wordpress/wp-blog-header.php(19): require_once('/Users/osx/Site...')
+#3 /Users/osx/Sites/demo-wordpress/index.php(17): require('/Users/osx/Site...')
+#4 {main}
+  thrown in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 15
+
+2020-07-15T08:22:17+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::get_error_mesage() in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php:16
+Stack trace:
+#0 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(23): connect_replica()
+#1 /Users/osx/Sites/demo-wordpress/wp-includes/template-loader.php(106): include('/Users/osx/Site...')
+#2 /Users/osx/Sites/demo-wordpress/wp-blog-header.php(19): require_once('/Users/osx/Site...')
+#3 /Users/osx/Sites/demo-wordpress/index.php(17): require('/Users/osx/Site...')
+#4 {main}
+  thrown in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 16
+
+2020-07-15T08:22:32+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_error_mesage() in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php:16
+Stack trace:
+#0 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(23): connect_replica()
+#1 /Users/osx/Sites/demo-wordpress/wp-includes/template-loader.php(106): include('/Users/osx/Site...')
+#2 /Users/osx/Sites/demo-wordpress/wp-blog-header.php(19): require_once('/Users/osx/Site...')
+#3 /Users/osx/Sites/demo-wordpress/index.php(17): require('/Users/osx/Site...')
+#4 {main}
+  thrown in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 16
+
+2020-07-15T08:22:34+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Error::get_error_mesage() in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php:16
+Stack trace:
+#0 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(23): connect_replica()
+#1 /Users/osx/Sites/demo-wordpress/wp-includes/template-loader.php(106): include('/Users/osx/Site...')
+#2 /Users/osx/Sites/demo-wordpress/wp-blog-header.php(19): require_once('/Users/osx/Site...')
+#3 /Users/osx/Sites/demo-wordpress/index.php(17): require('/Users/osx/Site...')
+#4 {main}
+  thrown in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 16
+
+2020-07-15T08:24:07+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::get_error_message() in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php:16
+Stack trace:
+#0 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(23): connect_replica()
+#1 /Users/osx/Sites/demo-wordpress/wp-includes/template-loader.php(106): include('/Users/osx/Site...')
+#2 /Users/osx/Sites/demo-wordpress/wp-blog-header.php(19): require_once('/Users/osx/Site...')
+#3 /Users/osx/Sites/demo-wordpress/index.php(17): require('/Users/osx/Site...')
+#4 {main}
+  thrown in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 16
+
+2020-07-15T08:24:09+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::get_error_message() in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php:16
+Stack trace:
+#0 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(23): connect_replica()
+#1 /Users/osx/Sites/demo-wordpress/wp-includes/template-loader.php(106): include('/Users/osx/Site...')
+#2 /Users/osx/Sites/demo-wordpress/wp-blog-header.php(19): require_once('/Users/osx/Site...')
+#3 /Users/osx/Sites/demo-wordpress/index.php(17): require('/Users/osx/Site...')
+#4 {main}
+  thrown in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 16
+
+2020-07-15T08:24:41+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::get_error_message() in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php:16
+Stack trace:
+#0 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(23): connect_replica()
+#1 /Users/osx/Sites/demo-wordpress/wp-includes/template-loader.php(106): include('/Users/osx/Site...')
+#2 /Users/osx/Sites/demo-wordpress/wp-blog-header.php(19): require_once('/Users/osx/Site...')
+#3 /Users/osx/Sites/demo-wordpress/index.php(17): require('/Users/osx/Site...')
+#4 {main}
+  thrown in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 16
+
+2020-07-15T09:46:14+00:00 CRITICAL syntax error, unexpected '$update' (T_VARIABLE) in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 62
+
+2020-07-15T09:49:26+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on int in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php:66
+Stack trace:
+#0 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(73): update_products()
+#1 /Users/osx/Sites/demo-wordpress/wp-includes/template-loader.php(106): include('/Users/osx/Site...')
+#2 /Users/osx/Sites/demo-wordpress/wp-blog-header.php(19): require_once('/Users/osx/Site...')
+#3 /Users/osx/Sites/demo-wordpress/index.php(17): require('/Users/osx/Site...')
+#4 {main}
+  thrown in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 66
+
+2020-07-15T09:52:50+00:00 CRITICAL Uncaught Error: Call to a member function get_results() on int in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php:65
+Stack trace:
+#0 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(72): update_products()
+#1 /Users/osx/Sites/demo-wordpress/wp-includes/template-loader.php(106): include('/Users/osx/Site...')
+#2 /Users/osx/Sites/demo-wordpress/wp-blog-header.php(19): require_once('/Users/osx/Site...')
+#3 /Users/osx/Sites/demo-wordpress/index.php(17): require('/Users/osx/Site...')
+#4 {main}
+  thrown in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 65
+
+2020-07-15T10:15:17+00:00 CRITICAL Uncaught Error: Cannot use object of type stdClass as array in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php:58
+Stack trace:
+#0 [internal function]: {closure}(Object(stdClass))
+#1 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(59): array_map(Object(Closure), Array)
+#2 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(86): update_products()
+#3 /Users/osx/Sites/demo-wordpress/wp-includes/template-loader.php(106): include('/Users/osx/Site...')
+#4 /Users/osx/Sites/demo-wordpress/wp-blog-header.php(19): require_once('/Users/osx/Site...')
+#5 /Users/osx/Sites/demo-wordpress/index.php(17): require('/Users/osx/Site...')
+#6 {main}
+  thrown in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 58
+
+2020-07-15T10:27:32+00:00 CRITICAL syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 71
+
+2020-07-15T10:56:36+00:00 CRITICAL syntax error, unexpected '$temp' (T_VARIABLE) in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 71
+
+2020-07-15T11:07:08+00:00 CRITICAL syntax error, unexpected '(', expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 72
+
+2020-07-15T11:07:30+00:00 CRITICAL syntax error, unexpected 'post_id' (T_STRING) in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 72
+
+2020-07-15T19:10:51+00:00 CRITICAL Uncaught Error: Call to undefined method wpdb::esc_sql() in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php:93
+Stack trace:
+#0 /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php(115): update_products()
+#1 /Users/osx/Sites/demo-wordpress/wp-includes/template-loader.php(106): include('/Users/osx/Site...')
+#2 /Users/osx/Sites/demo-wordpress/wp-blog-header.php(19): require_once('/Users/osx/Site...')
+#3 /Users/osx/Sites/demo-wordpress/index.php(17): require('/Users/osx/Site...')
+#4 {main}
+  thrown in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 93
+
+2020-07-15T19:17:42+00:00 CRITICAL syntax error, unexpected '"' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 96
+

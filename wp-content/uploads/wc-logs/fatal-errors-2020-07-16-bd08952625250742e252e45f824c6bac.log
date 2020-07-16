@@ -1,0 +1,6 @@
+2020-07-16T02:03:28+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 112
+
+2020-07-16T02:22:11+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 123
+
+2020-07-16T02:22:24+00:00 CRITICAL syntax error, unexpected 'echo' (T_ECHO) in /Users/osx/Sites/demo-wordpress/wp-content/themes/twentytwenty/templates/cron-update-products.php on line 123
+
